@@ -1,4 +1,4 @@
-## Automatisation de collecte d'offre d'emplois 
+## Automatisation de la collecte des offres d'emploi
 
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![](https://img.shields.io/badge/BrightData-FF9900?style=for-the-badge)  
